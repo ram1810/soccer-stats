@@ -1,4 +1,4 @@
-# Soccer Stats
+# Soccer Stats test
 
 Soccer Stats is an example application to be used as a proof of concept for a presentation at [Ansible Meetup in São Paulo](https://www.meetup.com/Ansible-Sao-Paulo/events/243212921/).
 
